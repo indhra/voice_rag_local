@@ -1,0 +1,11 @@
+openai-whisper
+chromadb
+sentence-transformers
+sounddevice
+numpy
+scipy
+PyPDF2
+transformers
+torch
+langchain-core
+langchain-community
